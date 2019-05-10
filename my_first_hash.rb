@@ -21,8 +21,11 @@ def retrieval
                  }
 
 shipping_manifest["whale bone corsets" => 5]
+shipping_manifest["whale bone corsets"]
 shipping_manifest["parcelain vases" => 2]
+shipping_manifest["porcelain vases"]
 shipping_manifest["oil paintings" => 3]
+shipping_manifest["oil paintings"]
 
 
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
